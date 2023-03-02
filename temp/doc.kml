@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+      <SimpleField name="X" type="double"/>
+      <SimpleField name="Y" type="double"/>
+      <SimpleField name="id" type="int"/>
+      <SimpleField name="plate" type="int"/>
+    </Schema>
+    <Schema id="schema1" name="schema1">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>GVasi_stops_4326</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Arco di Tito</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.488737</SimpleData>
+            <SimpleData name="Y">41.890633</SimpleData>
+            <SimpleData name="id">49</SimpleData>
+            <SimpleData name="plate">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.488737,41.890632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chiesa de' SS. Cosma e Damiano]]></name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.487115</SimpleData>
+            <SimpleData name="Y">41.891708</SimpleData>
+            <SimpleData name="id">46</SimpleData>
+            <SimpleData name="plate">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.487115,41.891708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa del Gesuiti</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479156</SimpleData>
+            <SimpleData name="Y">41.895615</SimpleData>
+            <SimpleData name="id">39</SimpleData>
+            <SimpleData name="plate">135</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479156,41.895613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Gesuiti e Maria</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.477604</SimpleData>
+            <SimpleData name="Y">41.907856</SimpleData>
+            <SimpleData name="id">13</SimpleData>
+            <SimpleData name="plate">140</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.477604,41.907856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Carlo al Corso</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.478521</SimpleData>
+            <SimpleData name="Y">41.905392</SimpleData>
+            <SimpleData name="id">14</SimpleData>
+            <SimpleData name="plate">140</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478521,41.905393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Giacomo degli Incurabili</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.477577</SimpleData>
+            <SimpleData name="Y">41.907707</SimpleData>
+            <SimpleData name="id">12</SimpleData>
+            <SimpleData name="plate">140</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.477577,41.907709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Lorenzo in Miranda</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.486737</SimpleData>
+            <SimpleData name="Y">41.89183</SimpleData>
+            <SimpleData name="id">45</SimpleData>
+            <SimpleData name="plate">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.486737,41.891832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Maria dei Miracoli</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.476829</SimpleData>
+            <SimpleData name="Y">41.910133</SimpleData>
+            <SimpleData name="id">11</SimpleData>
+            <SimpleData name="plate">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.476829,41.910135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Maria in Montesanto</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.4764</SimpleData>
+            <SimpleData name="Y">41.910061</SimpleData>
+            <SimpleData name="id">10</SimpleData>
+            <SimpleData name="plate">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4764,41.910062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di S. Maria la Nuova</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.488312</SimpleData>
+            <SimpleData name="Y">41.891113</SimpleData>
+            <SimpleData name="id">48</SimpleData>
+            <SimpleData name="plate">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.488312,41.891114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Collegio Romano e S. Ignazio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479784</SimpleData>
+            <SimpleData name="Y">41.899242</SimpleData>
+            <SimpleData name="id">28</SimpleData>
+            <SimpleData name="plate">163</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479784,41.899242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colonna Antonina</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.47969</SimpleData>
+            <SimpleData name="Y">41.900791</SimpleData>
+            <SimpleData name="id">22</SimpleData>
+            <SimpleData name="plate">22</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.47969,41.900792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Convento di S. Maria Maddalena</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479673</SimpleData>
+            <SimpleData name="Y">41.902752</SimpleData>
+            <SimpleData name="id">19</SimpleData>
+            <SimpleData name="plate">67</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479673,41.902752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Obelisco Egizio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.47639</SimpleData>
+            <SimpleData name="Y">41.910553</SimpleData>
+            <SimpleData name="id">9</SimpleData>
+            <SimpleData name="plate">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.47639,41.910554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orti Farnesiani al Palatino</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.487339</SimpleData>
+            <SimpleData name="Y">41.890869</SimpleData>
+            <SimpleData name="id">50</SimpleData>
+            <SimpleData name="plate">197</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.487339,41.890869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzi di Campidoglio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.482802</SimpleData>
+            <SimpleData name="Y">41.893375</SimpleData>
+            <SimpleData name="id">42</SimpleData>
+            <SimpleData name="plate">80</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.482802,41.893375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Altieri</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.478962</SimpleData>
+            <SimpleData name="Y">41.895969</SimpleData>
+            <SimpleData name="id">38</SimpleData>
+            <SimpleData name="plate">79</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478962,41.895968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Bolognetti</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.482702</SimpleData>
+            <SimpleData name="Y">41.896164</SimpleData>
+            <SimpleData name="id">35</SimpleData>
+            <SimpleData name="plate">65</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.482702,41.896164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Chigi</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.47986</SimpleData>
+            <SimpleData name="Y">41.901131</SimpleData>
+            <SimpleData name="id">21</SimpleData>
+            <SimpleData name="plate">22</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.47986,41.90113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Palazzo d'Asti]]></name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481967</SimpleData>
+            <SimpleData name="Y">41.896465</SimpleData>
+            <SimpleData name="id">34</SimpleData>
+            <SimpleData name="plate">170</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481967,41.896467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Palazzo dell'Accademia di Francia]]></name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481904</SimpleData>
+            <SimpleData name="Y">41.897274</SimpleData>
+            <SimpleData name="id">33</SimpleData>
+            <SimpleData name="plate">170</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481904,41.897275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo della Serenissima Repubblica di S. Marco</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.48146</SimpleData>
+            <SimpleData name="Y">41.895603</SimpleData>
+            <SimpleData name="id">36</SimpleData>
+            <SimpleData name="plate">65</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.48146,41.895603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo di Fiano</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479203</SimpleData>
+            <SimpleData name="Y">41.902954</SimpleData>
+            <SimpleData name="id">18</SimpleData>
+            <SimpleData name="plate">68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479203,41.902955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo di Sciarra</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.480853</SimpleData>
+            <SimpleData name="Y">41.900032</SimpleData>
+            <SimpleData name="id">26</SimpleData>
+            <SimpleData name="plate">67</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.480853,41.900033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Panfilio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.480638</SimpleData>
+            <SimpleData name="Y">41.897873</SimpleData>
+            <SimpleData name="id">32</SimpleData>
+            <SimpleData name="plate">66</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.480638,41.897873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Panfilio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481003</SimpleData>
+            <SimpleData name="Y">41.896431</SimpleData>
+            <SimpleData name="id">37</SimpleData>
+            <SimpleData name="plate">39</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481003,41.896432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Ruspoli</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.478997</SimpleData>
+            <SimpleData name="Y">41.904324</SimpleData>
+            <SimpleData name="id">16</SimpleData>
+            <SimpleData name="plate">68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478997,41.904324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Spada</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.480458</SimpleData>
+            <SimpleData name="Y">41.90094</SimpleData>
+            <SimpleData name="id">24</SimpleData>
+            <SimpleData name="plate">22</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.480458,41.900939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parte di Campo Vaccino verso il Campidoglio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.485395</SimpleData>
+            <SimpleData name="Y">41.891724</SimpleData>
+            <SimpleData name="id">44</SimpleData>
+            <SimpleData name="plate">31</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.485395,41.891724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piazza del Colosseo</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.491217</SimpleData>
+            <SimpleData name="Y">41.889862</SimpleData>
+            <SimpleData name="id">52</SimpleData>
+            <SimpleData name="plate">33</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.491217,41.889862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piazza di Monte Citorio</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.478673</SimpleData>
+            <SimpleData name="Y">41.900879</SimpleData>
+            <SimpleData name="id">23</SimpleData>
+            <SimpleData name="plate">23</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478673,41.900877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piazza di Pietra</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479472</SimpleData>
+            <SimpleData name="Y">41.899971</SimpleData>
+            <SimpleData name="id">27</SimpleData>
+            <SimpleData name="plate">24</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479472,41.899971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porta del Popolo</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.475975</SimpleData>
+            <SimpleData name="Y">41.911518</SimpleData>
+            <SimpleData name="id">7</SimpleData>
+            <SimpleData name="plate">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.475975,41.911517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prospetto Principale del Collegio Romano</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.480278</SimpleData>
+            <SimpleData name="Y">41.8979</SimpleData>
+            <SimpleData name="id">31</SimpleData>
+            <SimpleData name="plate">162</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.480278,41.897898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rupe Tarpea</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481896</SimpleData>
+            <SimpleData name="Y">41.892834</SimpleData>
+            <SimpleData name="id">43</SimpleData>
+            <SimpleData name="plate">80</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481896,41.892835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Lorenzo in Lucina</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.478552</SimpleData>
+            <SimpleData name="Y">41.903629</SimpleData>
+            <SimpleData name="id">17</SimpleData>
+            <SimpleData name="plate">105</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478552,41.90363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Marcello</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481385</SimpleData>
+            <SimpleData name="Y">41.898624</SimpleData>
+            <SimpleData name="id">29</SimpleData>
+            <SimpleData name="plate">133</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481385,41.898624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Maria del Popolo</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.477016</SimpleData>
+            <SimpleData name="Y">41.910908</SimpleData>
+            <SimpleData name="id">8</SimpleData>
+            <SimpleData name="plate">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.477016,41.910909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Maria in Aracoeli</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.482338</SimpleData>
+            <SimpleData name="Y">41.893879</SimpleData>
+            <SimpleData name="id">41</SimpleData>
+            <SimpleData name="plate">130</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.482338,41.89388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Maria in Via</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481275</SimpleData>
+            <SimpleData name="Y">41.901691</SimpleData>
+            <SimpleData name="id">25</SimpleData>
+            <SimpleData name="plate">104</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481275,41.901691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Maria in Via Lata</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481621</SimpleData>
+            <SimpleData name="Y">41.89806</SimpleData>
+            <SimpleData name="id">30</SimpleData>
+            <SimpleData name="plate">44</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481621,41.898058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Maria Liberatrice</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.486011</SimpleData>
+            <SimpleData name="Y">41.891285</SimpleData>
+            <SimpleData name="id">51</SimpleData>
+            <SimpleData name="plate">54</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.486011,41.891284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Silvestro in Capite</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.480974</SimpleData>
+            <SimpleData name="Y">41.902832</SimpleData>
+            <SimpleData name="id">20</SimpleData>
+            <SimpleData name="plate">153</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.480974,41.902832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SS. Trinitità</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.479267</SimpleData>
+            <SimpleData name="Y">41.904682</SimpleData>
+            <SimpleData name="id">15</SimpleData>
+            <SimpleData name="plate">128</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479267,41.904682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SS. Venanzio e Ansovino</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.481058</SimpleData>
+            <SimpleData name="Y">41.894344</SimpleData>
+            <SimpleData name="id">40</SimpleData>
+            <SimpleData name="plate">116</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.481058,41.894346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tempio della Pace</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="X">12.487941</SimpleData>
+            <SimpleData name="Y">41.891396</SimpleData>
+            <SimpleData name="id">47</SimpleData>
+            <SimpleData name="plate">102</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.487941,41.891397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema1"/>
+      </ExtendedData>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:15:26+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4788375957696,41.9045071370964,32.4511451721191
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:20:05+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4790885631219,41.904680841317,34.5547981262207
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:21:08+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/1_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478341213415,41.9043348992116,30.9891262054443
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:21:44+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/2_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478341213415,41.9043348992116,30.9891262054443
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:23:39+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/3_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4786667929389,41.9044210229268,31.0998191833496
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:25:54+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/4_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4786667929389,41.9044210229268,31.0998191833496
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:28:39+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/5_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4783986856803,41.9036239655584,30.763599395752
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:30:54+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/6_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4790303097503,41.90378626333,31.2547264099121
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:37:20+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/7_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4793776482125,41.9029461183603,35.8167991638184
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:37:53+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/1_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4792659972764,41.9029051512726,35.3740005493164
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:39:03+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/2_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479223331437,41.902842053839,34.6935997009277
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:39:42+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/8_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4792286646731,41.9027249942698,33.8526344299316
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:41:39+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/9_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4792913612833,41.9026129167434,33.6723175048828
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:42:20+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/3_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4793253571734,41.9024514078337,33.9739570617676
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:43:16+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/10_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4794300333315,41.9024049780701,34.3433532714844
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:43:48+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/11_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4793371110045,41.9022844014554,35.2931251525879
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:44:17+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/12_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4794867577858,41.9023268812148,34.6604270935059
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:44:59+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/4_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4791912266376,41.9021305607892,39.3944625854492
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:45:28+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/13_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4791156861734,41.9021782858601,38.3026390075684
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:46:36+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/14_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4786040561664,41.9021843937098,32.4191856384277
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:47:09+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/5_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4784062464659,41.9021626002286,30.3428649902344
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:47:48+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/15_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4783389311975,41.9020841036643,31.0975551605225
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:48:36+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/16_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4782882605235,41.9021757149009,28.2367134094238
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:50:12+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/17_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4782670308104,41.9022330087913,26.7359275817871
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:51:14+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/18_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4781483385251,41.9017940868862,37.0521774291992
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:51:56+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/19_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4780406734181,41.9016357079636,39.0225868225098
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:52:28+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/20_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4779883014066,41.9019309797305,30.6222877502441
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:52:58+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/21_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.478005579636,41.9017251887978,36.3619918823242
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:53:44+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/22_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4779614520362,41.9015249804061,38.661205291748
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:54:28+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/6_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4779530847477,41.9011734142376,38.8865432739258
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:56:16+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/23_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4782846558074,41.900637526856,41.6838264465332
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T11:57:49+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/24_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4791467769656,41.9009017207443,42.7600975036621
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:00:07+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/25_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4788342847139,41.9007330428186,43.5429725646973
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:02:16+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/26_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4789819276768,41.9004326908251,37.4225082397461
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:03:19+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/27_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4794200424626,41.9004733755503,37.5031394958496
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:05:37+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/28_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4795639624461,41.9010556394242,37.5957908630371
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:08:56+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/7_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4797480467324,41.9010773918593,35.9071998596191
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:09:23+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/29_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.479923726694,41.9011089407207,35.2736015319824
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:09:52+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/8_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4800474438722,41.9011402336711,34.9347991943359
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:10:48+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/30_camera.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4802856490272,41.900726147282,33.0114364624023
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>camera</name>
+        <TimeStamp>
+          <when>2023-02-28T12:11:25+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/9_camera .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4802907828402,41.9011238216596,33.9965896606445
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>caméra</name>
+        <TimeStamp>
+          <when>2023-02-28T11:42:52+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/caméra .jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4793306673941,41.9023908008088,34.4647674560547
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dog crew</name>
+        <TimeStamp>
+          <when>2023-02-28T13:03:17+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dog crew (1).jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4782906916454,41.9059782943447,29.362060546875
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo</name>
+        <TimeStamp>
+          <when>2023-02-28T11:29:42+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4783946019776,41.9037036534354,30.7779998779297
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo 1</name>
+        <TimeStamp>
+          <when>2023-02-28T11:14:21+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo 1.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4789728808066,41.9047612119381,35.1818695068359
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo 2(gina)</name>
+        <TimeStamp>
+          <when>2023-02-28T11:19:30+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <Point>
+          <coordinates>
+            12.4790885631219,41.904680841317,34.5547981262207
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo 3 jack r</name>
+        <TimeStamp>
+          <when>2023-02-28T11:24:09+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <Point>
+          <coordinates>
+            12.4786667929389,41.9044210229268,31.0998191833496
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo blanc frisé</name>
+        <TimeStamp>
+          <when>2023-02-28T11:26:25+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo blanc frisé.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4786667929389,41.9044210229268,31.0998191833496
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo brun anglais</name>
+        <TimeStamp>
+          <when>2023-02-28T11:40:28+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo brun anglais.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4790492802585,41.9028630342004,34.2031593322754
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo gris agressif joy</name>
+        <TimeStamp>
+          <when>2023-02-28T11:32:14+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo gris agressif joy.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4786231813476,41.9036325914133,30.0394268035889
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo joy long poil</name>
+        <TimeStamp>
+          <when>2023-02-28T11:33:22+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo joy long poil.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4790438163128,41.903739935417,31.6930046081543
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo oreilles pointues bertha</name>
+        <TimeStamp>
+          <when>2023-02-28T12:03:56+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo oreilles pointues bertha.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4791381841762,41.900485531551,38.6706428527832
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>dogo saucisse</name>
+        <TimeStamp>
+          <when>2023-02-28T11:49:09+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/dogo saucisse.jpeg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4783400891398,41.902307621503,27.1455993652344
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>jack Russell</name>
+        <TimeStamp>
+          <when>2023-02-28T12:58:28+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <Point>
+          <coordinates>
+            12.4800599856817,41.9036894297372,34.5036010742188
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>woman walking 2 dogo</name>
+        <TimeStamp>
+          <when>2023-02-28T13:06:48+01:00</when>
+        </TimeStamp>
+        <styleUrl>#style3</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema1">
+            <SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/woman walking 2 dogo.jpg" /><br />]]></SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.4756891421792,41.9066452030066,22.0542583465576
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Style id="style2">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/green_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Style id="style3">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/yellow_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
